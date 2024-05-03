@@ -20,10 +20,11 @@
 }
 
 .detail_pokemon img {
+    display: block;
     max-width: 80%;
     height: 300px;
     align-self: center;
-    margin-bottom: 1rem;
+    margin-bottom: 25px;
 }
 
 .detail_pokemon .number {
