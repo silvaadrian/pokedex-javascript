@@ -67,7 +67,7 @@
 
 .details_pokemon .menu a {
     text-decoration: none;
-    margin-right: 1rem;
+    margin: 1rem;
     color: #000;
     border-bottom: #6c79db solid .1rem;
     padding-bottom: 1rem;
