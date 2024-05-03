@@ -118,25 +118,27 @@
     display: flex;
     width: 25vw;
     height: 5px;
+    margin-right: 1rem;
     background-color: #ccc;
     opacity: 0.9;
 }
 
 .span_progress::before {
     content: "";
-    width: 50%;
+    width: var(--span_progress-width);
     background-color: #fb6f6f;
 }
 
 .span_progress2 {
     display: flex;
     width: 25vw;
+    margin-right: 1rem;
     height: 5px;
     background-color: #ccc;
 }
 
 .span_progress2::before {
     content: "";
-    width: 60%;
+    width: var(--span_progress2-width);
     background-color: #57c483;
 }
