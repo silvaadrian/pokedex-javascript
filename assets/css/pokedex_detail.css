@@ -21,7 +21,7 @@
 
 .detail_pokemon img {
     display: block;
-    max-width: 80%;
+    max-width: 50%;
     height: 300px;
     align-self: center;
     margin-bottom: 25px;
@@ -56,7 +56,7 @@
 .details_pokemon {
     width: 100vw;
     padding: 1rem;
-    margin-top: -10px;
+    margin-top: -20px;
     border-top-left-radius: 1.8rem;
     border-top-right-radius: 1.8rem;
     background-color: #fff;
