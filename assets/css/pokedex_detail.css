@@ -21,8 +21,8 @@
 
 .detail_pokemon img {
     display: block;
-    max-width: 50%;
-    height: 250px;
+    max-width: 70%;
+    height: 200px;
     align-self: center;
     margin-bottom: 25px;
 }
@@ -64,12 +64,11 @@
 }
 
 .details_pokemon .menu {
-    margin: 100px 50px auto;
+    margin: 80px 50px auto;
 }
 
 .details_pokemon .menu a {
     text-decoration: none;
-    margin-top: 1000px;
     margin-right: 1rem;
     color: #000;
     border-bottom: #6c79db solid .1rem;
