@@ -64,11 +64,12 @@
 }
 
 .details_pokemon .menu {
-    margin: 50px;
+    margin: 100px 50px auto;
 }
 
 .details_pokemon .menu a {
     text-decoration: none;
+    margin-top: 1000px;
     margin-right: 1rem;
     color: #000;
     border-bottom: #6c79db solid .1rem;
